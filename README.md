@@ -1,6 +1,6 @@
 # ValidateCnpj
 
-To read this documentation in English click [here](https://github.com/RamonHossein/validate_cnpj/blob/master/README.md).
+Para ler esta documentação em português click [aqui](https://github.com/RamonHossein/validate_cnpj/blob/master/LEIAME.md).
 
 Adds CNPJ validation support to Rails (ActiveModel) and test it in a simple way.
 
