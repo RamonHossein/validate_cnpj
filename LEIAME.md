@@ -1,5 +1,9 @@
 # ValidateCnpj
 
+[![Gem Version](https://badge.fury.io/rb/validate_cnpj.png)](http://badge.fury.io/rb/validate_cnpj)
+[![Coverage Status](https://coveralls.io/repos/github/RamonHossein/validate_cnpj/badge.svg)](https://coveralls.io/github/RamonHossein/validate_cnpj)
+[![Build Status](https://secure.travis-ci.org/RamonHossein/validate_cnpj.png?branch=master)](http://travis-ci.org/RamonHossein/validate_cnpj)
+
 To read this documentation in English click [here](https://github.com/RamonHossein/validate_cnpj/blob/master/README.md).
 
 Adiciona suporte a validação do CNPJ para Rails (ActiveModel) testando de uma forma simples.
